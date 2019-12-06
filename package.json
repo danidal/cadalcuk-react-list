@@ -22,7 +22,10 @@
     "type": "git",
     "url": "git+https://github.com/danidal/cadalcuk-react-list.git"
   },
-  "keywords": ["React", "List"],
+  "keywords": [
+    "React",
+    "List"
+  ],
   "author": "danidal",
   "license": "ISC",
   "bugs": {
